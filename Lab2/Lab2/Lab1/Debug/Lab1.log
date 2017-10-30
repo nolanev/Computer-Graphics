@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\evakn\documents\cs4052 computer graphics\lab2\lab1\main.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab1.vcxproj -> C:\Users\evakn\Documents\CS4052 Computer Graphics\Lab2\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\evakn\Documents\CS4052 Computer Graphics\Lab2\Debug\Lab1.pdb (Partial PDB)
