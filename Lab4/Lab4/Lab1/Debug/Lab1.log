@@ -1,0 +1,19 @@
+﻿  main - HierarchyBaseCode.cpp
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\teapot.h(2980): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\teapot.h(2980): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\teapot.h(5959): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\teapot.h(5959): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\teapot.h(8938): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\teapot.h(8938): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(148): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(152): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(187): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(192): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(201): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(215): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(227): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(239): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\evakn\documents\cs4052 computer graphics\lab4\lab4\lab1\main - hierarchybasecode.cpp(254): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  Lab1.vcxproj -> C:\Users\evakn\Documents\CS4052 Computer Graphics\Lab4\Lab4\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\evakn\Documents\CS4052 Computer Graphics\Lab4\Lab4\Debug\Lab1.pdb (Partial PDB)
